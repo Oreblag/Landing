@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.product-img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.prdct2-text {
+    width: 80%;
+    text-align: start;
+}

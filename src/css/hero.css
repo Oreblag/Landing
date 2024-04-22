@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.hero-container {
+    height: 150vh;
+    max-width: auto;
+    background-color: white;
+    background-image: url(../images/Path.png);
+    background-repeat: no-repeat;
+    background-size: 70% 100%;
+    background-position: right;
+}
+
+.hero-text {
+    width: 73%;
+    line-height: 200%;
+}
+
+.hero-content {
+    margin-left: 200px;
+    padding-left: 20px;
+}
+
+.hero-image {
+    width: 2000px !important;
+    height: auto !important;
+}
+.hero-text-left {
+    margin-top: 150px;
+}
+.hero-buttons {
+    margin-top: 80px;
+}
